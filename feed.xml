@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Level 1 Test Podcast</title>
+    <title>Level 1 Bat_and_Friends</title>
     <link>https://github.com/cobelinfuture-Kobel/podcast_level_1_test</link>
     <description>Private English listening practice</description>
     <language>en-us</language>
@@ -12,6 +12,38 @@
         url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/level_1/001_Bat.and.Friends.1_Hunting.for.Bugs.mp3"
         type="audio/mpeg" />
       <guid>ep01</guid>
+      <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Episode 2 - Lost in the Rain</title>
+      <enclosure 
+        url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/level_1/002_Bat and Friends 2_Lost in the Rain.mp3"
+        type="audio/mpeg" />
+      <guid>ep02</guid>
+      <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Episode 3 - The Red Barn</title>
+      <enclosure 
+        url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/level_1/003_Bat and Friends 3_The Red Barn.mp3"
+        type="audio/mpeg" />
+      <guid>ep03</guid>
+      <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Episode 4 - Little Drops and Big Drops</title>
+      <enclosure 
+        url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/level_1/004_Bat and Friends 4_Little Drops and Big Drops.mp3"
+        type="audio/mpeg" />
+      <guid>ep04</guid>
+      <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Episode 5 - What Is It</title>
+      <enclosure 
+        url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/level_1/005_Bat and Friends 5_What Is It.mp3"
+        type="audio/mpeg" />
+      <guid>ep05</guid>
       <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
     </item>
 

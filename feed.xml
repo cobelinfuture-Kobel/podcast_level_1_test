@@ -9,26 +9,7 @@
     <item>
       <title>Episode 1 - I Can Hop</title>
       <enclosure 
-        url="<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Level 1 Test Podcast</title>
-    <link>https://github.com/cobelinfuture-Kobel/podcast_level_1_test</link>
-    <description>Private English listening practice</description>
-    <language>en-us</language>
-
-    <item>
-      <title>Episode 1 - I Can Hop</title>
-      <enclosure 
         url="https://github.com/cobelinfuture-Kobel/podcast_level_1_test/releases/download/untagged-30d2f1794355b5cb5936/01.I.Can.Hop.mp3"
-        type="audio/mpeg" />
-      <guid>ep01</guid>
-      <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
-    </item>
-
-  </channel>
-</rss>
-"
         type="audio/mpeg" />
       <guid>ep01</guid>
       <pubDate>Tue, 17 Nov 2025 12:00:00 GMT</pubDate>
